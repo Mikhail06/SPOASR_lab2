@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>lab2_scout</name>
+  <version>0.0.0</version>
+  <description>The lab2_scout package</description>
+  <maintainer email="mikhail@todo.todo">mikhail</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>lab2_message</build_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>lab2_message</exec_depend>
+
+</package>
